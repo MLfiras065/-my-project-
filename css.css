@@ -1,0 +1,61 @@
+body {
+margin:10px;
+padding:10px;
+box-sizing: border-box;
+font-family: 'Klee One', 'cursive';
+
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+    text-align: center;
+    
+}
+#img{
+    border:3px  gold;
+    border-radius: 20px;
+}
+.para_contain{
+    background-color: rgb(201, 201, 201);
+    padding: 30px;
+    border-radius: 20px;
+    width: inherit;
+    height: inherit;
+
+}
+.card{
+
+    
+}
+.para{
+color:black;
+font-weight: 300;
+font-size: 20px;
+
+}
+.pa {
+	color:black;
+font-weight: 300;
+font-size: 20px
+
+}
+.text{
+    color:#3a2404;
+font-size: 60px;
+    font-weight:420px ;
+}
+.myButton{
+	background-image: url(lion.jpg);
+	background-position:center;
+    font-size: 70px;
+	border-radius: 30px;
+	margin-top: 30px;
+}
+
+html {	
+	background-image: url(lim.jpg);
+	}
